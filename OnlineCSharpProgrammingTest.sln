@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{8F9DEFF2-1
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvensAndOdds.ConsoleApp", "src\EvensAndOdds.ConsoleApp\EvensAndOdds.ConsoleApp.csproj", "{BA0C8339-2F3F-4195-89A6-80C81824C46D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{562618CD-3385-414B-8AD6-E1FD22529635}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{562618CD-3385-414B-8AD6-E1FD22529635}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{562618CD-3385-414B-8AD6-E1FD22529635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0C8339-2F3F-4195-89A6-80C81824C46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0C8339-2F3F-4195-89A6-80C81824C46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0C8339-2F3F-4195-89A6-80C81824C46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0C8339-2F3F-4195-89A6-80C81824C46D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,6 +41,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{DB63E7C1-C422-4B64-9243-0D9C3CC6DEEA} = {A5FD736E-AD23-4671-AF01-9B311E448ECE}
 		{562618CD-3385-414B-8AD6-E1FD22529635} = {A5FD736E-AD23-4671-AF01-9B311E448ECE}
+		{BA0C8339-2F3F-4195-89A6-80C81824C46D} = {A5FD736E-AD23-4671-AF01-9B311E448ECE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D78A15DF-FADE-4AE0-BAF7-05964CD5DA4A}
